@@ -1,0 +1,13 @@
+{
+  "name": "sturdy-octo-disco",
+  "version": "1.0.0",
+  "description": "A VitePress blog hosted on GitHub Pages",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
