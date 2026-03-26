@@ -2,25 +2,25 @@
 layout: home
 
 hero:
-  name: "My Blog"
+  name: "我的博客"
   text: "Thoughts, ideas, and notes"
-  tagline: A personal blog built with VitePress and hosted on GitHub Pages
+  tagline: Input and Output
   actions:
     - theme: brand
       text: Read Posts
       link: /posts/
     - theme: alt
       text: View on GitHub
-      link: https://github.com/pixelpippy/sturdy-octo-disco
+      link: https://github.com/pixelpippy/
 
 features:
   - icon: ✍️
-    title: Blog Posts
-    details: Articles and notes on various topics.
+    title: 博客文章
+    details: 
   - icon: ⚡
-    title: Fast & Lightweight
-    details: Powered by VitePress for a blazing-fast reading experience.
+    title: 学习记录
+    details: 
   - icon: 🌐
-    title: GitHub Pages
-    details: Automatically deployed to GitHub Pages on every push.
+    title: 分享
+    details: 
 ---
